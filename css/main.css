@@ -1,3 +1,9 @@
 body {
     background-color: #239ec4;
 }
+p {
+    color: #1fc235;
+}
+h1 {
+    font-size: 50px;
+}
